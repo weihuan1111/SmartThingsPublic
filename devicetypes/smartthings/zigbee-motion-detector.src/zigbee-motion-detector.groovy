@@ -32,6 +32,7 @@ metadata {
 		fingerprint profileId: "0104", deviceId: "0402", inClusters: "0000,0003,0500,0001,FFFF", manufacturer: "Megaman", model: "PS601/z1", deviceJoinName: "INGENIUM Motion Sensor" //INGENIUM ZB PIR Sensor
 		fingerprint profileId: "0104", deviceId: "0402", inClusters: "0000, 0003, 0500, 0001", outClusters: "0019", manufacturer: "HEIMAN", model: "PIRSensor-N", deviceJoinName: "HEIMAN Motion Sensor" //HEIMAN Motion Sensor
 		fingerprint profileId: "0104", deviceId: "0402", inClusters: "0000, 0001, 0500", outClusters: "0019", manufacturer: "Third Reality, Inc", model: "3RMS16BZ", deviceJoinName: "ThirdReality Motion Sensor" //ThirdReality Motion Sensor
+		fingerprint profileId: "0104", deviceId: "0402", inClusters: "0000, 0001, 0500", outClusters: "0019", manufacturer: "THIRDREALITY", model: "3RMS16BZ", deviceJoinName: "ThirdReality Motion Sensor" //ThirdReality Motion Sensor
 	}
 	simulator {
 		status "active": "zone status 0x0001 -- extended status 0x00"
