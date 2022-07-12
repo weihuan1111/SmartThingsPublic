@@ -39,6 +39,8 @@ metadata {
 		fingerprint profileId: "0104", deviceId: "0402", inClusters: "0000, 0001, 0500", outClusters: "0019", manufacturer: "THIRDREALITY", model: "3RDS17BZ", deviceJoinName: "ThirdReality Door Sensor" //ThirdReality Door Sensor
 	}
 
+	
+	
 	simulator {
 
 		status "open": "zone status 0x0021 -- extended status 0x00"
